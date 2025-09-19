@@ -1,14 +1,17 @@
 criaCartao(
-    ‘categoria’,conhecimento gerais
-    ‘pergunta’,>Quem foi a primeira pessoa a viajar no espaço?</p>
-last month
+    'Programação',
+    'O que é JavaScript?',
+    'O JavaScript é uma linguagem de programação usada para criar interatividade em páginas web, permitindo que elas respondam a ações do usuário, como cliques ou movimentos do mouse.'
+)
 
-Create index.html
-                    </div>
-                    <div class="cartao__conteudo__resposta">
-last month
+criaCartao(
+    'Programação',
+    'O que é css?',
+    'O css é uma linguagem de estilização, permitindo aplicar estilos diretamente nos elementos HTML, alterando sua aparência visual.'
+)
 
-Update index.html
-                      <p>Yuri Gagarin.</p>
-    ‘resposta’
+criaCartao(
+    'Programação',
+    'O que é html?',
+    'HTML, ou Linguagem de Marcação de Hipertexto, é a linguagem padrão usada para criar e estruturar páginas web.'
 )
